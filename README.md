@@ -4,7 +4,7 @@ Full-Stack Developer | MERN | Problem Solver | Clean Code Practitioner
 
 I build full-stack applications, learn by solving real problems, and continuously improve the way I write software.
 
-Currently focused on **React, Node.js, Express, MongoDB, REST APIs, Git/GitHub and Data Structures & Algorithms.**
+Currently focused on **React, Node.js, Express, MongoDB, MySQL, REST APIs, and Data Structures & Algorithms.**
 
 ---
 
