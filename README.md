@@ -1,4 +1,4 @@
-👨‍💻 Janidu Siriwardhana
+Hi, I am 👨‍💻 Janidu Siriwardhana
 
 Full-Stack Developer | MERN | Problem Solver | Clean Code Practitioner
 
