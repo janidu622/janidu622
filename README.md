@@ -26,7 +26,7 @@
 <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME">
   <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" />
 </a>
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK_USERNAME">
+<a href="https://www.hackerrank.com/janidu622">
   <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
 
