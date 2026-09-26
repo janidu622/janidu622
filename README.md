@@ -319,7 +319,7 @@ I regularly work on:
   <img src="https://img.shields.io/badge/LeetCode-Connect-FFA116?style=for-the-badge&logo=leetcode&logoColor=FFFFFF" alt="LeetCode" />
 </a>
 
-<a href="https://www.frontendmentor.io/profile/YOUR_FRONTEND_MENTOR_USERNAME">
+<a href="https://www.frontendmentor.io/profile/janidu622">
   <img src="https://img.shields.io/badge/Frontend%20Mentor-Profile-3F54A3?style=for-the-badge&logo=frontendmentor&logoColor=FFFFFF" alt="Frontend Mentor" />
 </a>
 
