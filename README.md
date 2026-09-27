@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
 <a href="https://www.frontendmentor.io/profile/janidu622">
-  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
+  <img src="https://img.shields.io/badge/Frontend-Mentor-blue?style=for-the-badge&logo=frontendmentor" alt="Frontendmentor" />
 </a>
 
 <br><br>
