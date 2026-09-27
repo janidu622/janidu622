@@ -29,7 +29,10 @@
 <a href="https://www.hackerrank.com/janidu622">
   <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
 </a>
-
+<a href="https://www.frontendmentor.io/profile/janidu622">
+  <img src="https://img.shields.io/badge/HackerRank-0D1117?style=for-the-badge&logo=hackerrank&logoColor=00EA64" alt="HackerRank" />
+</a>
+https://www.frontendmentor.io/profile/janidu622
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=janidu622&label=PROFILE%20VIEWS&color=58A6FF&style=for-the-badge" alt="Profile views" />
